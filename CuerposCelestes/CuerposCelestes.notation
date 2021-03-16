@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_85spIIXhEeuDGYHmRCGwTQ" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_ACFWYIXiEeuDGYHmRCGwTQ" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ACGkgIXiEeuDGYHmRCGwTQ" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ACGkgYXiEeuDGYHmRCGwTQ" type="Package_PackagedElementCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_IGX88IXiEeuDGYHmRCGwTQ" type="Class_Shape">
+        <children xmi:type="notation:DecorationNode" xmi:id="_IGYkAIXiEeuDGYHmRCGwTQ" type="Class_NameLabel"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_IGYkAYXiEeuDGYHmRCGwTQ" type="Class_FloatingNameLabel">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_IGYkAoXiEeuDGYHmRCGwTQ" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_IGYkA4XiEeuDGYHmRCGwTQ" type="Class_AttributeCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_X85wwIXiEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_bYTrMIXjEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_X8nc4IXiEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_X85wwYXiEeuDGYHmRCGwTQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_izgG4IXiEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_bDWu4IXjEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_izWV4IXiEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_izgG4YXiEeuDGYHmRCGwTQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_IZkJQIXjEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_aw9XUIXjEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_IZa_UIXjEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_IZkJQYXjEeuDGYHmRCGwTQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_O4IvMIXjEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_acpUMIXjEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_O3_lQIXjEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_O4IvMYXjEeuDGYHmRCGwTQ"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_IGYkBIXiEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_IGYkBYXiEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_IGYkBoXiEeuDGYHmRCGwTQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IGYkB4XiEeuDGYHmRCGwTQ"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_IGYkCIXiEeuDGYHmRCGwTQ" type="Class_OperationCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_hdlnYIXjEeuDGYHmRCGwTQ" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="CuerposCelestes.uml#_hdfgwIXjEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_hdlnYYXjEeuDGYHmRCGwTQ"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_IGYkCYXiEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_IGYkCoXiEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_IGYkC4XiEeuDGYHmRCGwTQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IGYkDIXiEeuDGYHmRCGwTQ"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_IGYkDYXiEeuDGYHmRCGwTQ" type="Class_NestedClassifierCompartment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_IGYkDoXiEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_IGYkD4XiEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_IGYkEIXiEeuDGYHmRCGwTQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IGYkEYXiEeuDGYHmRCGwTQ"/>
+        </children>
+        <element xmi:type="uml:Class" href="CuerposCelestes.uml#_IGWHwIXiEeuDGYHmRCGwTQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IGX88YXiEeuDGYHmRCGwTQ" x="34" y="28" width="321" height="321"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_rUk6oIXjEeuDGYHmRCGwTQ" type="Class_Shape">
+        <children xmi:type="notation:DecorationNode" xmi:id="_rUk6ooXjEeuDGYHmRCGwTQ" type="Class_NameLabel"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_rUk6o4XjEeuDGYHmRCGwTQ" type="Class_FloatingNameLabel">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_rUk6pIXjEeuDGYHmRCGwTQ" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_rUk6pYXjEeuDGYHmRCGwTQ" type="Class_AttributeCompartment">
+          <children xmi:type="notation:Shape" xmi:id="_v3pdMIXjEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_fePJUIXkEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_v3co4IXjEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_v3pdMYXjEeuDGYHmRCGwTQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_w2KT4IXjEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_IOM74IXlEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_w16cQIXjEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_w2KT4YXjEeuDGYHmRCGwTQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_xd_v8IXjEeuDGYHmRCGwTQ" type="Property_ClassAttributeLabel">
+            <styles xmi:type="notation:StringListValueStyle" xmi:id="_DYqJQIXlEeuDGYHmRCGwTQ" name="maskLabel">
+              <stringListValue>visibility</stringListValue>
+              <stringListValue>name</stringListValue>
+              <stringListValue>type</stringListValue>
+              <stringListValue>derived</stringListValue>
+            </styles>
+            <element xmi:type="uml:Property" href="CuerposCelestes.uml#_xdwfYIXjEeuDGYHmRCGwTQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_xd_v8YXjEeuDGYHmRCGwTQ"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_rUk6poXjEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_rUk6p4XjEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_rUk6qIXjEeuDGYHmRCGwTQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rUk6qYXjEeuDGYHmRCGwTQ"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_rUk6qoXjEeuDGYHmRCGwTQ" type="Class_OperationCompartment" collapsed="true">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_rUk6q4XjEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_rUk6rIXjEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_rUk6rYXjEeuDGYHmRCGwTQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rUk6roXjEeuDGYHmRCGwTQ"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_rUk6r4XjEeuDGYHmRCGwTQ" type="Class_NestedClassifierCompartment">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_rUk6sIXjEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_rUk6sYXjEeuDGYHmRCGwTQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_rUk6soXjEeuDGYHmRCGwTQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rUk6s4XjEeuDGYHmRCGwTQ"/>
+        </children>
+        <element xmi:type="uml:Class" href="CuerposCelestes.uml#_rUjsgIXjEeuDGYHmRCGwTQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rUk6oYXjEeuDGYHmRCGwTQ" x="394" y="28" width="301" height="261"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ACGkgoXiEeuDGYHmRCGwTQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ACGkg4XiEeuDGYHmRCGwTQ"/>
+    </children>
+    <element xmi:type="uml:Package" href="CuerposCelestes.uml#_ACBsAIXiEeuDGYHmRCGwTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ACFWYYXiEeuDGYHmRCGwTQ" x="60" y="40" width="781" height="401"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_r4ECMIXjEeuDGYHmRCGwTQ" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_r4ECMoXjEeuDGYHmRCGwTQ" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_r4ECM4XjEeuDGYHmRCGwTQ" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_r4ECNIXjEeuDGYHmRCGwTQ" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_r4ECNYXjEeuDGYHmRCGwTQ" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_r4ECNoXjEeuDGYHmRCGwTQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_r4ECN4XjEeuDGYHmRCGwTQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_r4ECOIXjEeuDGYHmRCGwTQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r4ECOYXjEeuDGYHmRCGwTQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_r4EpQIXjEeuDGYHmRCGwTQ" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_r4EpQYXjEeuDGYHmRCGwTQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_r4EpQoXjEeuDGYHmRCGwTQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_r4EpQ4XjEeuDGYHmRCGwTQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r4EpRIXjEeuDGYHmRCGwTQ"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_r4EpRYXjEeuDGYHmRCGwTQ" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_r4EpRoXjEeuDGYHmRCGwTQ"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_r4EpR4XjEeuDGYHmRCGwTQ"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_r4EpSIXjEeuDGYHmRCGwTQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r4EpSYXjEeuDGYHmRCGwTQ"/>
+    </children>
+    <element xmi:type="uml:Class" href="CuerposCelestes.uml#_r4C0EIXjEeuDGYHmRCGwTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r4ECMYXjEeuDGYHmRCGwTQ" x="860" y="240" width="21" height="5"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_85spIYXhEeuDGYHmRCGwTQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_85spIoXhEeuDGYHmRCGwTQ"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_85spI4XhEeuDGYHmRCGwTQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="CuerposCelestes.uml#_85jfMIXhEeuDGYHmRCGwTQ"/>
+  </styles>
+  <element xmi:type="uml:Model" href="CuerposCelestes.uml#_85jfMIXhEeuDGYHmRCGwTQ"/>
+</notation:Diagram>
